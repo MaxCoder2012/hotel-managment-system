@@ -1,11 +1,11 @@
 from datetime import datetime
 
-clients = ['andrew']
-room = [12]
-phone_number = [2324]
-enter = [323424]
-Exit = [34]
-price = [34]
+clients = []
+room = []
+phone_number = []
+enter = []
+Exit = []
+price = []
 running = True
 
 combined_data = []
